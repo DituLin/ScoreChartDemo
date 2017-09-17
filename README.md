@@ -1,1 +1,2 @@
 # ScoreChartDemo
+![](images/scoreChartView.png)
